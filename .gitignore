@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.streamlit/secrets.toml
+MBF_Optimised_Results_*.xlsx
+# (ore-grade cost model removed in V5)
+# keep real prices and stock out of the repository: commit only the template
+Master_*.xlsx
